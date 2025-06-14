@@ -111,7 +111,7 @@ export const URL =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=YOUR_API_KEY";
 ```
 
-> ⚠️ **Note**: Don’t hardcode API keys in production. Use `.env` files for secure storage.
+
 
 ---
 
