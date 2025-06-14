@@ -126,8 +126,8 @@ export const URL =
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/your-repo/ai-qna-react.git
-cd ai-qna-react
+git clone https://github.com/adrsy6394/AI-chatbot.git
+cd ai-chatbot
 npm install
 ```
 
@@ -137,7 +137,7 @@ npm install
 npm start
 ```
 
-The app will open on: [http://localhost:3000](http://localhost:3000)
+The app will open on: [http://localhost:3000](https://github.com/adrsy6394/AI-chatbot.git)
 
 ---
 
@@ -164,7 +164,7 @@ The app will open on: [http://localhost:3000](http://localhost:3000)
 
 **Adarsh Yadav**  
 BCA Student, ITM College of Management, GIDA, Gorakhpur  
-📫 [LinkedIn](https://www.linkedin.com/in/adarsh-yadav) | 📧 `adarsh@example.com`
+📫 [LinkedIn](https://www.linkedin.com/in/adarsh-yadav) | 📧 `aky386832@gmail.com`
 
 ---
 
